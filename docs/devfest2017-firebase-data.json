@@ -92,38 +92,6 @@
       ]
     },
     {
-      "id": 4,
-      "featured": true,
-      "name": "Philippe Back",
-      "title": "Freelancer",
-      "company": "High Octane SPRL",
-      "country": "Bierges, Belgium",
-      "photoUrl": "/images/speakers/philippe_back.jpg",
-      "shortBio": "Independent consultant paddling toward forthcoming waves",
-      "bio": "Independent consultant paddling toward forthcoming waves",
-      "tags": [
-        "Mobile",
-        "Virtual Reality"
-      ],
-      "socials": [
-        {
-          "icon": "website",
-          "label": "Website",
-          "link": "http://philippeback.eu"
-        },
-        {
-          "icon": "twitter",
-          "label": "Twitter",
-          "link": "http://twitter.com/philippeback"
-        },
-        {
-          "icon": "github",
-          "label": "Github",
-          "link": "http://github.com/philippeback"
-        }
-      ]
-    },
-    {
       "id": 5,
       "featured": false,
       "name": "Bojan Belic",
@@ -492,20 +460,6 @@
         "Machine Learning"
       ]
     },
-    "104": {
-      "id": 104,
-      "title": "VR on mobile",
-      "complexity": "Intermediate",
-      "description": "10x more immersive VR experiences done right",
-      "language": "English",
-      "speakers": [
-        4
-      ],
-      "tags": [
-        "Virtual Reality",
-        "Mobile"
-      ]
-    },
     "105": {
       "id": 105,
       "title": "Spring Cloud Stream - by Rick & Morty",
@@ -846,10 +800,10 @@
           "endTime": "14:30",
           "sessions": [
             [
-              104
+              111
             ],
             [
-              111
+              206
             ],
             [
               121
