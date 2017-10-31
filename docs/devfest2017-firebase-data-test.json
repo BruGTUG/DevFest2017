@@ -1,0 +1,890 @@
+{
+  "partners": [
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com/"
+        },
+        {
+          "logoUrl": "../images/logos/innoviris.png",
+          "name": "innoviris.brussels",
+          "url": "http://www.innoviris.be/en",
+          "width": 170
+        }
+      ],
+      "title": "General Partner"
+    }
+  ],
+  "speakers": [
+    null,
+    {
+      "id": 1,
+      "name": "Fabien Benetou",
+      "bio": "WebXR developer, curious Frenchman who loves to make proof of concepts to learn and explore.",
+      "company": "Freelancer",
+      "country": "Brussels, Belgium",
+      "featured": false,
+      "photoUrl": "/images/speakers/fabien_benetou.jpg",
+      "shortBio": "WebXR developer, curious Frenchman who loves to make proof of concepts to learn and explore.",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "https://fabien.benetou.fr/",
+          "name": "Website"
+        }
+      ],
+      "tags": [
+        "Virtual Reality",
+        "Augmented Reality",
+        "ARCore"
+      ],
+      "title": "WebXR Developer"
+    },
+    {
+      "id": 2,
+      "featured": true,
+      "name": "Martin Görner",
+      "title": "Developer Relations",
+      "company": "Google",
+      "country": "Paris, France",
+      "photoUrl": "/images/speakers/martin_gorner.jpg",
+      "shortBio": "Parallel processing and machine learning, as well as all the cool things you can do with them.",
+      "bio": "Parallel processing and machine learning, as well as all the cool things you can do with them.",
+      "tags": [
+        "Cloud",
+        "Tensorflow",
+        "Machine Learning"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/martin_gorner"
+        },
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/martingorner"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "featured": false,
+      "name": "Krishna Kumar Sekar",
+      "title": "E2E Application Developer",
+      "company": "BNP Paribas Fortis representing Tata Consultancy Service",
+      "country": "Brussels, Belgium",
+      "photoUrl": "/images/speakers/krishna_sekar.jpg",
+      "shortBio": "I am an E2E application developer worked across all areas of software lifecycle and Having experience on more than 60 programming languages and tools from angular js, objective c to mainframe ims etc.",
+      "bio": "I am an E2E application developer worked across all areas of software lifecycle and Having experience on more than 60 programming languages and tools from angular js, objective c to mainframe ims etc. Together an independent researcher and expert in machine learning, deep learning concepts and solved nearly 29 research papers in artificial intelligence, medical image processing and data mining, current research as well motive to make quantum machine learning a boom",
+      "tags": [
+        "Machine Learning"
+      ],
+      "socials": [
+        {
+          "icon": "github",
+          "name": "Github",
+          "link": "https://github.com/krishnakumarsekar"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "featured": true,
+      "name": "Philippe Back",
+      "title": "Freelancer",
+      "company": "High Octane SPRL",
+      "country": "Bierges, Belgium",
+      "photoUrl": "/images/speakers/philippe_back.jpg",
+      "shortBio": "Independent consultant paddling toward forthcoming waves",
+      "bio": "Independent consultant paddling toward forthcoming waves",
+      "tags": [
+        "Mobile",
+        "Virtual Reality"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "http://philippeback.eu"
+        },
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "http://twitter.com/philippeback"
+        },
+        {
+          "icon": "github",
+          "label": "Github",
+          "link": "http://github.com/philippeback"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "featured": false,
+      "name": "Bojan Belic",
+      "title": "Android Developer",
+      "company": "Auro Technologies - Team Leader Mobile Development",
+      "country": "Antwerp, Belgium",
+      "photoUrl": "/images/speakers/bojan_belic.jpg",
+      "shortBio": "Working with, on & around Android for 4+ years now. Having done Android integration work & OS modifications in Asia for companies such as Samsung, Wiko, etc...",
+      "bio": "Working with, on & around Android for 4+ years now. Having done Android integration work & OS modifications in Asia for companies such as Samsung, Wiko, etc... Like to read about new emerging libraries, frameworks and paradigms regarding Android in my free time.",
+      "tags": [
+        "Android",
+        "AOSP"
+      ],
+      "socials": [
+        {
+          "icon": "github",
+          "label": "Github",
+          "link": "https://github.com/sigmadeltasoftware"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "featured": false,
+      "name": "Dieter Hubau",
+      "title": "Competence Lead Cloud and PaaS",
+      "company": "Ordina Belgium",
+      "country": "Brasschaat, Belgium",
+      "photoUrl": "/images/speakers/dieter-hubau.png",
+      "shortBio": "Dieter is a Principal Java Consultant at Ordina, passionate about all Java and JavaScript related technologies.",
+      "bio": "Dieter is a Principal Java Consultant at Ordina, passionate about all Java and JavaScript related technologies. In his role as Competence Lead for the Cloud and PaaS Competence Center, he organizes workshops, talks and courses about the newest technologies. In his spare time, Dieter enjoys playing soccer, running, (online) gaming and fiddling around with all kinds of fancy new software.",
+      "tags": [
+        "Cloud",
+        "Spring Cloud Stream"
+      ],
+      "socials": [
+        {
+          "icon": "github",
+          "label": "Github",
+          "link": "https://ordina-jworks.github.io"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "featured": true,
+      "name": "Alex van Boxel",
+      "title": "Software Architect",
+      "company": "Vente-Exclusive",
+      "country": "Brussels, Belgium",
+      "photoUrl": "/images/speakers/alex_van_boxel.jpg",
+      "shortBio": "",
+      "bio": "",
+      "tags": [
+        "Cloud",
+        "Micro services"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "https://twitter.com/alexvb"
+        },
+        {
+          "icon": "linkedin",
+          "label": "Linkedin",
+          "link": "https://be.linkedin.com/in/alexvanboxel"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Cloud Platform",
+          "link": "https://developers.google.com/experts/people/alex-van-boxel",
+          "name": "GDE"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "featured": false,
+      "name": "Daniël Utzeri",
+      "title": "Pricing/Value Manager",
+      "company": "SNCB - NMBS",
+      "country": "Brussels, Belgium",
+      "photoUrl": "/images/speakers/daniel_utzeri.jpg",
+      "shortBio": "Daniel is a data-analyst and manager in a Belgium-based company.",
+      "bio": "Daniel is a data-analyst and manager in a Belgium-based company. He loves interacting and connecting with people and has a project ongoing in discovering the drivers to a happy and successful life. He is intruiged by data-analysis, advisory and communicating ideas concisely to upper management.",
+      "tags": [
+        "Big-Data"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "http://danielutzeri.com"
+        },
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "http://whatissuccess.eu"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "featured": false,
+      "name": "Guy Heylens",
+      "title": "Freelance Software Developer",
+      "company": "Mosp BVBA",
+      "country": "Wichelen, Belgium",
+      "photoUrl": "/images/speakers/guy_heylens.jpg",
+      "shortBio": "Guy is a freelance software developer and an Android enthousiast. Last year he came across Kotlin and has been using it since then. He has also founded the Belgian Kotlin User Group.",
+      "bio": "Guy is a freelance software developer and an Android enthousiast. Last year he came across Kotlin and has been using it since then. He has also founded the Belgian Kotlin User Group.",
+      "tags": [
+        "Kotlin",
+        "Android"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "http://twitter.com/kugbel"
+        },
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "http://kotlin.be"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "featured": false,
+      "name": "Warren Gavin",
+      "title": "iOS developer",
+      "company": "Apokrupto",
+      "country": "Brussels, Belgium",
+      "photoUrl": "/images/speakers/warren_gavin.jpg",
+      "shortBio": "Dev for 20 years, fascinated by getting things right, not just simply working. This keeps me busy, because we never, ever, get things completely right.",
+      "bio": "Dev for 20 years, fascinated by getting things right, not just simply working. This keeps me busy, because we never, ever, get things completely right.",
+      "tags": [
+        "Clean Code",
+        "Code review",
+        "Security"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "http://twitter.com/apokrupto"
+        },
+        {
+          "icon": "website",
+          "label": "Blog",
+          "link": "http://apokrupto.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "featured": false,
+      "name": "Jean-François De Hertogh",
+      "title": "Core Contributor",
+      "company": "#BrusselsTogether & Open Collective Europe",
+      "country": "Brussels, Belgium",
+      "photoUrl": "/images/speakers/jf_de_hertogh.jpg",
+      "shortBio": "I've always been passionated by social issues and technologies. I believe the interaction of these two settings can lead to a drastic change in the way we create value for each other.",
+      "bio": "I've always been passionated by social issues and technologies. I believe the interaction of these two settings can lead to a drastic change in the way we create value for each other. I've studied law and political sciences and worked for a year in these environments before leaving my job to dedicate my full time to #BrusselsTogether and Open Collective Europe.",
+      "tags": [
+        "Social",
+        "Technology"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "BrusselsTogether",
+          "link": "https://brusselstogether.org"
+        },
+        {
+          "icon": "website",
+          "label": "Open Collective",
+          "link": "https://opencollective.com/brusselstogether"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "featured": false,
+      "name": "Kalin Maldzhanski",
+      "title": "Software Engineer",
+      "company": "AppTik",
+      "country": "Kraainem, Belgium",
+      "photoUrl": "/images/speakers/kalin_maldzhanski.jpg",
+      "shortBio": "Kalin is a freelance software engineer and entrepreneur and loves technology, automation, optimization and confrontation.",
+      "bio": "Kalin is a freelance software engineer and entrepreneur and loves technology, automation, optimization and confrontation. He has a great passion for Android, REST APIs, Open Linked Data and distributed systems.",
+      "tags": [
+        "Android",
+        "Mobile"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "https://djodjo.org"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "featured": false,
+      "name": "Leandro Favarin",
+      "title": "Lead Android Engineer",
+      "company": "Blinkist",
+      "country": "Berlin, Germany",
+      "photoUrl": "/images/speakers/leandro_favarin.jpg",
+      "shortBio": "Leandro has been working as a software engineer for mobile devices and portable technology for 7+ years. His focus is on the Android platform and everything around it.",
+      "bio": "Leandro has been working as a software engineer for mobile devices and portable technology for 7+ years. His focus is on the Android platform and everything around it.",
+      "tags": [
+        "Android",
+        "Mobile"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "www.leandrofavarin.com"
+        },
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "https://twitter.com/leandrofavarin"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "featured": false,
+      "name": "Benjamin Monjoie",
+      "title": "Android Developer Fanatic and podcaster",
+      "company": "Appkers",
+      "country": "Court-Saint-Etienne, Belgium",
+      "photoUrl": "/images/speakers/benjamin_monjoie.jpg",
+      "shortBio": "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his carrer as a freelancer.",
+      "bio": "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his carrer as a freelancer. Through his work, he does his best to share his passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. He stays closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application.",
+      "tags": [
+        "Android",
+        "OpenGL"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "www.appkers.com"
+        },
+        {
+          "icon": "website",
+          "label": "Podcast",
+          "link": "www.androidleakspodcast.com"
+        },
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "https://twitter.com/xzan"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "featured": false,
+      "name": "David González",
+      "title": "Android Developer",
+      "company": "Help Scout",
+      "country": "Belgium",
+      "photoUrl": "/images/speakers/david_gonzalez.jpg",
+      "shortBio": "David is an Android Software Engineer at Help Scout and a Google Developer Expert for Android. He's actively involved in the Android community, co-organises the Belgian Kotlin User Group and has been developing with the Android platform since 2009.",
+      "bio": "David is an Android Software Engineer at Help Scout and a Google Developer Expert for Android. He's actively involved in the Android community, co-organises the Belgian Kotlin User Group and has been developing with the Android platform since 2009.<br/>He enjoys public speaking and loves sharing his experiences through conferences, blog posts and open source libraries like the Android Architecture Blueprints (https://goo.gl/d9l7IN). He is also a Google Startup Launchpad mentor, helping startups and companies produce highly desirable and quality products, by following agile methodologies; a skilled development process; and always going the extra mile.",
+      "tags": [
+        "Android"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Website",
+          "link": "http://www.malmstein.com/"
+        },
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "https://twitter.com/dggonzalez"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Android",
+          "link": "https://developers.google.com/experts/people/david-gonzalez",
+          "name": "GDE"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "featured": false,
+      "name": "Yannick Lemin",
+      "title": "Freelance Android Idiot, Podcaster",
+      "company": "TechYOS",
+      "country": "Jodoigne, Belgium",
+      "photoUrl": "/images/speakers/yannick_lemin.jpg",
+      "shortBio": "Yannick is a passionate developer on various platforms. He started in 2000 with C++ cross-platforms applications, continued with Java back-end and web application and stumbled upon Android development in 2009.",
+      "bio": "Yannick is a passionate developer and software craftsman. He started in 2000 with C++ cross-platforms applications, continued with Java back-end and web application and stumbled upon Android development in 2009.<br/>He loves to learn new technologies, especially through conferences and meetup like events. He also is the co-host of the french speaking Android development podcast Android Leaks, and lead organizer for the GDG Brussels.",
+      "tags": [
+        "Android",
+        "Unit Testing",
+        "Clean Code"
+      ],
+      "socials": [
+        {
+          "icon": "website",
+          "label": "Podcast",
+          "link": "http://www.androidleakspodcast.com/"
+        },
+        {
+          "icon": "twitter",
+          "label": "Twitter",
+          "link": "https://twitter.com/theyann"
+        }
+      ]
+    }
+  ],
+  "sessions": {
+    "101": {
+      "id": 101,
+      "title": "WebAR using Tango and ARCore",
+      "complexity": "Intermediate",
+      "description": "Augmented reality isn't just for researchers anymore but works now on most high-end phones, from the Pixel to, yes, the iPhone. If you already are a web developer you just need some basis for 3D and few functions on how to position object in space to integrate on your usual web page content that will overlay on reality.",
+      "language": "English",
+      "speakers": [
+        1
+      ],
+      "tags": [
+        "ARCore",
+        "WebAR",
+        "Tango"
+      ]
+    },
+    "102": {
+      "id": 102,
+      "title": "Android Open Source Project",
+      "complexity": "Intermediate",
+      "description": "Plenty of people know about how Android apps are made & structured, but only few seem to know how the actual operating system itself is structured. This session could discuss the OS itself and how someone could potentially venture into building his very own customized version of the Android.",
+      "language": "English",
+      "speakers": [
+        5
+      ],
+      "tags": [
+        "Android",
+        "AOSP"
+      ]
+    },
+    "103": {
+      "id": 103,
+      "title": "Quantum Machine Learning",
+      "complexity": "Expert",
+      "description": "Quantum Machine Learning is an advanced research concept, In recent days due to the growth of computation power mathematical analysis,statistics ,computer vision concepts like image processing,signal processing and artificial intelligence  applications made a tremendous victory, but the next level of application on atomic research data(CERN), medical bio informatics ,medical 3d data processing and space research (nasa) still under in preparatory state, the major need is very high computation power as well accurate result ,even if the computation power is compromised ,efficiency is important in these fields, a minute mistake make a death in medical field, So to accomplish the goal in these fields here an overview of qml and basics of qml(https://github.com/krishnakumarsekar)",
+      "language": "English",
+      "speakers": [
+        3
+      ],
+      "tags": [
+        "Machile Learning"
+      ]
+    },
+    "104": {
+      "id": 104,
+      "title": "VR on mobile",
+      "complexity": "Intermediate",
+      "description": "10x more immersive VR experiences done right",
+      "language": "English",
+      "speakers": [
+        4
+      ],
+      "tags": [
+        "Machile Learning"
+      ]
+    },
+    "105": {
+      "id": 105,
+      "title": "Spring Cloud Stream - by Rick & Morty",
+      "complexity": "Intermediate",
+      "description": "Any fans of the adult animated science-fiction sitcom Rick and Morty will be very curious after reading that title!<br/>We will go on an adventure inside the Microverse and create a microservice called Rick. His sole mission: to bombard the McDonald's microservice with requests for the long-lost 1998 McDonalds Mulan szechuan sauce which spawns once every thousand attempts.<br/>Of course, Rick is way too busy to occupy his brilliant mind with this tedious task, so he spawns a Mr. Meeseeks microservice to do his bidding.<br/>As most fans among you know, Mr. Meeseeks has an everlasting will to die. Existence is pain to him. Therefore, he will keep spawning other Meeseeks until their task is complete.<br/>Meanwhile, our Morty microservice observes all of their messages and wonders whether the task can be fulfilled.<br/>The talk will consist of slides introducing Spring Cloud Stream and my usecase, followed by some code samples. We will close off with a final demo of the architecture running on Pivotal Cloud Foundry.<br/><br/>Join me in their adventure and experience the wonders of messaging with Spring Cloud Stream over RabbitMQ and a reactive frontend powered by Vue.js and event streams.",
+      "language": "English",
+      "speakers": [
+        6
+      ],
+      "tags": [
+        "Cloud",
+        "Spring"
+      ]
+    },
+    "106": {
+      "id": 106,
+      "title": "Istio - An open platform to connect, manage, and secure microservices",
+      "complexity": "Intermediate",
+      "description": "Now that you have micro-services you want to keep an eye on what happens between the services and make sure everything is secure. Istio provides an easy way to create a network of deployed services with load balancing, service-to-service authentication, monitoring, and more, without requiring any changes in service code. Istio is an open-source collaboration between Lift, Google and IBM with Lift's Envoy at the core.<br/>You will get a detailed overview of all the benefits that Istio can bring to your micro-service architecture. The presentation will be accompanied with a live demo giving more insight of some of the concepts.",
+      "language": "English",
+      "speakers": [
+        7
+      ],
+      "tags": [
+        "Cloud",
+        "Microservice",
+        "Istio"
+      ]
+    },
+    "107": {
+      "id": 107,
+      "title": "Real-life examples in Forecasting through regression analyses in a business context",
+      "complexity": "Intermediate",
+      "description": "In a (big) data-driven business environment there's an undeniable need for people with profound data-skills. One problem, however, is that there's a lack in business skills which are equally important than the results of your analysis.<br/>I'll go through a regression analysis based on a real-life example, show tips how to get the buy-in from management in order that you can change and improve processes in a business environment throughdata-usage and ultimately provide tips to communicate the results of this analysis. The example will be based on an analysis performed in the marketing division of a Belgium-based company.",
+      "language": "English",
+      "speakers": [
+        8
+      ],
+      "tags": [
+        "Big Data"
+      ]
+    },
+    "108": {
+      "id": 108,
+      "title": "Kotlin Introduction",
+      "complexity": "Beginner",
+      "description": "In this first talk we will guide you through your first steps in Kotlin, what is the language all about? Who created it and why.",
+      "language": "English",
+      "speakers": [
+        9
+      ],
+      "tags": [
+        "Kotlin"
+      ]
+    },
+    "109": {
+      "id": 109,
+      "title": "Code reviews... done well",
+      "complexity": "Beginner",
+      "description": "How to review code, what to avoid, what to aim for, and how not to insult everyone you've ever worked with",
+      "language": "English",
+      "speakers": [
+        10
+      ],
+      "tags": [
+        "Code Review"
+      ]
+    },
+    "110": {
+      "id": 110,
+      "title": "Don’t fear SQL: A better way to store and handle data with SQLBrite & SQLDelight",
+      "complexity": "Beginner",
+      "description": "For many people, SQL can be intimidating when writing mobile apps. To avoid its complexity, various libraries started to implement techniques such as Object-Relational Mapping. They ease basic operations on complex objects, but come with a set of downsides such as decreased performance and the learning curve of a new library.<br/>Square’s libraries SQLBrite and SQLDelight improve data manipulation by embracing all the powerful capabilities of SQLite while removing common frictions like runtime crashes, boilerplate code, and type-unsafe APIs.<br/>In this talk I’ll present the reactive mindset behind SQLBrite and the code-generation capabilities of SQLDelight. When combined, these two libraries will help you architect and code safer and faster with queries autocompletion, code reuse, and much more.",
+      "language": "English",
+      "speakers": [
+        13
+      ],
+      "tags": [
+        "Android",
+        "SQL"
+      ]
+    },
+    "111": {
+      "id": 111,
+      "title": "Threat Modelling",
+      "complexity": "Beginner",
+      "description": "A methodology to help identify security risks in your system.",
+      "language": "English",
+      "speakers": [
+        10
+      ],
+      "tags": [
+        "Security"
+      ]
+    },
+    "112": {
+      "id": 112,
+      "title": "Threat Modelling Workshop",
+      "complexity": "Beginner",
+      "description": "A methodology to help identify security risks in your system.",
+      "language": "English",
+      "speakers": [
+        10
+      ],
+      "tags": [
+        "Security"
+      ]
+    },
+    "113": {
+      "id": 113,
+      "title": "Tensorflow and deep learning - without a PhD",
+      "complexity": "Intermediate",
+      "description": "Google has recently open-sourced its framework for machine learning and neural networks called Tensorflow. With this new tool, deep machine learning transitions from an area of research into mainstream software engineering. In this session, we will teach you how to choose the right neural network for your problem and how to make it behave. Familiarity with differential equations is no longer required. Instead, a couple of lines ofTensorflow Python, and a bag of \"tricks of the trade\" will do the job. No previous Python knowledge required.",
+      "language": "English",
+      "speakers": [
+        2
+      ],
+      "tags": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    "114": {
+      "id": 114,
+      "title": "Tensorflow Workshop",
+      "complexity": "Beginner",
+      "description": "Let's play with Tensorflow!",
+      "language": "English",
+      "speakers": [
+        2
+      ],
+      "tags": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    "115": {
+      "id": 115,
+      "title": "Kotlin Codelabs",
+      "complexity": "Beginner",
+      "description": "Let's play with Kotlin!",
+      "language": "English",
+      "speakers": [
+        9
+      ],
+      "tags": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    "116": {
+      "id": 116,
+      "title": "Virtualising associations",
+      "complexity": "Beginner",
+      "description": "With Open Collective Europe and #BrusselsTogether, we aim to virtualise associations so that people can experiment ideas online and raise funds in full transparency.<br/>Today, they mostly rely on very old and inefficient systems to get funding through subsidies. It’s a distraction and it’s not sustainable. There’s got to be a better way.<br/>That’s what we want to explore with #BrusselsTogether and Open Collective Europe. Can we recreate a city from the bottom up, with transparency, inclusiveness, and an experimentation spirit as its core? A city where everyone is invited to contribute? A city where everything is possible.<br/>Our goal is to open source all the things that can be open sourced and mutualised all the things that can be mutualised to reduce the friction that exists to create, maintain and operate an association in Brussels.<br/>Join the movement and launch your collective online to start having an impact in no time!<br/>https://opencollective.com/brusselstogether",
+      "language": "English",
+      "speakers": [
+        11
+      ],
+      "tags": [
+        "Associations"
+      ]
+    },
+    "117": {
+      "id": 117,
+      "title": "Event Sourcing & CQRS with Android",
+      "complexity": "Intermediate",
+      "description": "In the Android world we have seen many event-driven applications. I will introduce another not that well known variant of event driven.  We will discuss what Event Sourcing and CQRS means.<br/>We will see how this can be applied to Android and how well it can fit functional programming style together with code examples on Android and Firebase.<br/>We will also discuss in which cases this approach should be used, what value it brings and what headaches it could create.",
+      "language": "English",
+      "speakers": [
+        12
+      ],
+      "tags": [
+        "Android",
+        "Event sourcing",
+        "CQRS",
+        "Firebase"
+      ]
+    },
+    "118": {
+      "id": 118,
+      "title": "OpenGL, a noob's guide for Android developers ",
+      "complexity": "Beginner",
+      "description": "OpenGL is often regarded as too complex, obscure or even too low level to be considered when developing an application. Most people will even try to go around it and develop what they want using Views and Canvas to avoid developing with it. Nevertheless, it's not always possible nor the best solution.<br/><br/>As someone who have been going through all the learning of OpenGL recently, Benjamin has encountered a lot of frustration but also a lot of “aha!“ moment. In this talk, Benjamin will try to demystified OpenGL and share the basics of what it is and how to use it in Android to make applications perform better. Also, you will learn all the pitfalls and key concepts that you should know when starting with OpenGL.",
+      "language": "English",
+      "speakers": [
+        14
+      ],
+      "tags": [
+        "Android",
+        "OpenGL"
+      ]
+    },
+    "119": {
+      "id": 119,
+      "title": "Remote, lonely and productive",
+      "complexity": "Beginner",
+      "description": "Being the only developer in a project can be frustrating, everything falls into your shoulders and it's very easy to get trapped into bad habits. You are not alone! There are many tools, practices and services that will make your life easier... and efficient!<br/>Several months ago I joined Help Scout as the only Android Developer with the main purpose of building their Android application from scratch. Coming from an agency environment where there were more than 30 developers willing to discuss and present different ideas, it's been quiet a challenge.<br/>This talk shares my experience, explaining what tools, practices and methodologies I've followed. Being the only developer is no impediment to build great quality code, follow good design patterns and delight your users.<br/>How to do Pull Requests, Code Reviews, Design Reviews, Continuous Delivery and Integration... Wether you are a one man band or work with a team, these tips will help you become a better programmer!",
+      "language": "English",
+      "speakers": [
+        15
+      ],
+      "tags": [
+        "Remote Working",
+        "Development"
+      ]
+    },
+    "120": {
+      "id": 120,
+      "title": "What's new in JUnit 5",
+      "complexity": "Beginner",
+      "description": "JUnit 5 is out, this talk will explain what's new and cool with this version.",
+      "language": "English",
+      "speakers": [
+        16
+      ],
+      "tags": [
+        "JUnit 5",
+        "Unit Testing"
+      ]
+    },
+    "121": {
+      "id": 121,
+      "title": "WebAR Workshop",
+      "complexity": "Beginner",
+      "description": "Let's play with WebAR. This workshop session will be limited to 10 people.",
+      "language": "English",
+      "speakers": [
+        1
+      ],
+      "tags": [
+        "ARCore",
+        "WebAR"
+      ]
+    },
+    "201": {
+      "id": 201,
+      "title": "Welcome and Breakfast",
+      "description": "Come over, enjoy the breakfast and discussing with other tech fans, get ready for the talks",
+      "image": "/images/backgrounds/registration.jpg",
+      "language": "English"
+    },
+    "202": {
+      "id": 202,
+      "title": "Welcome Keynote",
+      "description": "",
+      "image": "/images/backgrounds/opening.jpg",
+      "language": "English"
+    },
+    "203": {
+      "id": 203,
+      "title": "After party and networking",
+      "description": "Afterparty is a great time to have some fun and meet new people",
+      "image": "/images/backgrounds/party.jpg",
+      "language": "English"
+    },
+    "204": {
+      "id": 204,
+      "title": "Lunch",
+      "description": "Fooooooooood!",
+      "image": "/images/backgrounds/lunch.jpg",
+      "language": "English"
+    },
+    "205": {
+      "id": 205,
+      "title": "Conference closing",
+      "description": "Time to say goodbye",
+      "image": "/images/backgrounds/closing.jpg",
+      "language": "English"
+    },
+    "206": {
+      "id": 206,
+      "title": "",
+      "description": ""
+    }
+  },
+  "schedule": [
+    {
+      "date": "2017-11-04",
+      "dateReadable": "November 4",
+      "timeslots": [
+        {
+          "startTime": "08:30",
+          "endTime": "09:15",
+          "sessions": [
+            [
+              201
+            ]
+          ]
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "09:30",
+          "sessions": [
+            [
+              202
+            ]
+          ]
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "10:30",
+          "sessions": [
+            [
+              113
+            ]
+          ]
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "11:30",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              101
+            ],
+            [
+              114
+            ]
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "sessions": [
+            [
+              109
+            ],
+            [
+
+            ],
+            [
+              114
+            ]
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Main Hall"
+        },
+        {
+          "title": "Le Grand Champs"
+        },
+        {
+          "title": "Rainbow"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-05",
+      "dateReadable": "November 5",
+      "timeslots": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:15",
+          "sessions": [
+            [
+              201
+            ]
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Main Hall"
+        },
+        {
+          "title": "Le Grand Champs"
+        },
+        {
+          "title": "Rainbow"
+        }
+      ]
+    }
+  ]
+}
+
